@@ -1,11 +1,12 @@
 ---
-title: Sentiment Analysis
-emoji: 🏆
+metadata
+title: Sentiment Classification
+emoji: 💩
 colorFrom: purple
 colorTo: green
 sdk: gradio
-sdk_version: 3.35.2
+sdk_version: 3.23.1b3
 app_file: app.py
 pinned: false
-license: creativeml-openrail-m
+license: mit
 ---
